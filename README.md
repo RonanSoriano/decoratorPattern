@@ -33,4 +33,4 @@ Follow instructions. <b> You are not allowed to insert other methods except what
 
 
 # Class Diagram
-![Decorator Design Pattern](https://github.com/RonanSoriano/decoratorPattern/assets/142371669/dc8adea5-4727-450f-a205-c4ba5b67d3f8)
+![Decorator Design Pattern](https://github.com/RonanSoriano/decoratorPattern/assets/142371669/28a305da-c67e-4dfe-9197-b165139024aa)
